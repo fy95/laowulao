@@ -1,0 +1,34 @@
+
+2016-11-27 16:28:42,323DEBUG [org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:124)] Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+
+2016-11-27 16:28:42,339DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:304)] PooledDataSource forcefully closed/removed all connections.
+
+2016-11-27 16:28:42,339DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:304)] PooledDataSource forcefully closed/removed all connections.
+
+2016-11-27 16:28:42,340DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:304)] PooledDataSource forcefully closed/removed all connections.
+
+2016-11-27 16:28:42,340DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:304)] PooledDataSource forcefully closed/removed all connections.
+
+2016-11-27 16:30:00,926DEBUG [org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:124)] Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+
+2016-11-27 16:30:00,940DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:304)] PooledDataSource forcefully closed/removed all connections.
+
+2016-11-27 16:30:00,940DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:304)] PooledDataSource forcefully closed/removed all connections.
+
+2016-11-27 16:30:00,940DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:304)] PooledDataSource forcefully closed/removed all connections.
+
+2016-11-27 16:30:00,941DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:304)] PooledDataSource forcefully closed/removed all connections.
+
+2016-11-27 16:30:01,015DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:129)] Opening JDBC Connection
+
+2016-11-27 16:30:01,218DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:378)] Created connection 1898220577.
+
+2016-11-27 16:30:01,219DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:95)] Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@71248c21]
+
+2016-11-27 16:30:01,221DEBUG [org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:132)] ooo Using Connection [com.mysql.jdbc.JDBC4Connection@71248c21]
+
+2016-11-27 16:30:01,222DEBUG [org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:132)] ==>  Preparing: SELECT * FROM user WHERE user_id = ? 
+
+2016-11-27 16:30:01,245DEBUG [org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:132)] ==> Parameters: 1(Long)
+
+2016-11-27 16:30:01,278DEBUG [org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:132)] <==      Total: 1

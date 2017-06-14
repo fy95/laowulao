@@ -1,0 +1,7 @@
+help.xml/user.xml修改后：mvn clean package
+
+addbeans-加糖豆子
+userId 
+beans 
+ 
+
